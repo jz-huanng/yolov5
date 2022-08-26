@@ -4,4 +4,5 @@
 #python3 detect.py --device 0 --weights weights/yolov5s.pt --source 1 # v6.0 0.132s
 #python3 detect.py --device 0 --weights weights/yolov5s.pt --source 1 # v6.1 0.132s 
 #python3 detect.py --device 0 --weights weights/yolov5n.pt --source 1 # v6.0 0.064s
-python3 detect.py --device 0 --weights weights/yolov5n.pt --source 1  # v6.1 0.062s
+python3 detect.py --device 0 --weights weights/yolov5n.pt --source 0  # v6.1 0.063s
+#python3 detect.py --device 0 --weights weights/yolov5n.engine --source 0 # v6.1 0.051s
