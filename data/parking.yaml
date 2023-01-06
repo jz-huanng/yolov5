@@ -17,6 +17,3 @@ test:  # test images (optional)
 nc: 2  # number of classes
 names: ['parked', 'empty']  # class names
 
-
-# Download script/URL (optional)
-download: https://ultralytics.com/assets/coco128.zip
