@@ -16,5 +16,5 @@ test:  # test images (optional)
 
 # Classes
 nc: 2  # number of classes
-names: ['parked', 'empty']  # class names
+names: ['legal', 'illegal']  # class names
 
